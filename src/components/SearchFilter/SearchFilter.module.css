@@ -1,0 +1,9 @@
+.searchInput {
+    box-sizing: border-box;
+    display: block;
+    margin: 0 0 30px;
+    padding: 5px;
+    max-width: 220px;
+    width: 100%;
+    font-size: 14px;
+}

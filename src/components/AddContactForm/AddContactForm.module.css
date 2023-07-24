@@ -1,0 +1,28 @@
+.phonebookForm {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    padding: 30px;
+    border: 1px solid #000;
+    margin: 0 0 30px 0;
+    box-sizing: border-box;
+  }
+  .input {
+    box-sizing: border-box;
+    display: block;
+    margin: 0 0 15px;
+    padding: 5px;
+    max-width: 220px;
+    font-size: 14px;
+  }
+  .button {
+    box-sizing: border-box;
+    margin: 0;
+    max-width: 100px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  .label {
+    margin-bottom: 5px;
+    font-size: 20px;
+  }

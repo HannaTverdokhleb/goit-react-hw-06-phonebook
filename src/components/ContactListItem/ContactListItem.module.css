@@ -1,0 +1,10 @@
+.listButtton {
+    margin-left: 20px;
+    box-sizing: border-box;
+    max-width: 100px;
+    padding: 5px 15px;
+    font-size: 14px;
+}
+.listItem:not(:last-child) {
+    margin-bottom: 15px;
+}
